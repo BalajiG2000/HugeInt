@@ -21,8 +21,8 @@ ULLONG_MAX | Maximum value for a variable of type unsigned long long | 18,446,74
 
 Now, consider the following case: 
 
-_How to compute factorial of 100 using a C/C++ program?_
+> _How to compute factorial of 100 using a C/C++ program?_
 
-Factorial of 100 has 158 digits. It is not possible to store these many digits even if we use long long int.
+>> Factorial of 100 has 158 digits. It is not possible to store these many digits even if we use long long int.
 
 HugeInt will help us efficiently handle numbers with large digits in C language. With very few syntactical changes it could be also used in C++.
