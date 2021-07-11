@@ -35,4 +35,4 @@ HugeInt will help us efficiently handle numbers with large digits in C language.
 7. hugeIntFactorial : Function to calculate Factorial of given huge Integer
 
 For Verification of Calculations use - https://www.omnicalculator.com/math#s-19
-Most of other calculators rounds off to `e` and the output may not be accurate upto the last digit.
+(_Most of other calculators rounds off to `e` and the output may not be accurate upto the last digit_).
