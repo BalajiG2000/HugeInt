@@ -20,5 +20,6 @@ ULLONG_MAX: Maximum value for a variable of type unsigned long long is 18,446,74
 
 Now, consider the following case: 
 
-**How to compute factorial of 100 using a C/C++ program? **
+_How to compute factorial of 100 using a C/C++ program?_
+
 Factorial of 100 has 158 digits. It is not possible to store these many digits even if we use long long int.
