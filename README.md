@@ -36,3 +36,8 @@ HugeInt will help us efficiently handle numbers with large digits in C language.
 
 For Verification of Calculations use - https://www.omnicalculator.com/math#s-19
 (_Most of other calculators rounds off to `e` and the output may not be accurate upto the last digit_).
+
+## Instructions
+1. Download `HugeInt.h` file and `HugeIntDriverCode.c` driver code. I have executed the code in gcc compiler through command prompt.
+2. If you want to include `HugeInt.h` in your program, add the below code in the headers section of your code.
+>> `#include " HugeInt.h "` 
