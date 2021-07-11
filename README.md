@@ -11,12 +11,13 @@ Languages like Java support classes like BigIntegers allowing developers to util
 
 
 ## Description
-Consider the following types in C++: 
 
-INT_MAX: 	Maximum value for a variable of type int is 2147483647
-LONG_MAX:	Maximum value for a variable of type long is 2147483647
-LLONG_MAX: Maximum value for a variable of type long long is 9,223,372,036,854,775,807
-ULLONG_MAX: Maximum value for a variable of type unsigned long long is 18,446,744,073,709,551,615
+ Macros  | Description        | Value
+------------- | ------------- | ----------------
+INT_MAX  | Maximum value for a variable of type int | 2147483647
+LONG_MAX  | Maximum value for a variable of type long | 2147483647
+LLONG_MAX | Maximum value for a variable of type long long | 9,223,372,036,854,775,807
+ULLONG_MAX | Maximum value for a variable of type unsigned long long | 18,446,744,073,709,551,615
 
 Now, consider the following case: 
 
